@@ -39,7 +39,7 @@ const About = () => {
                 </div>
             </div>
             <div className="about-img">
-                <img src="https://cemeri.org/wp-content/uploads/Sin-titulo.jpg" atl="about" />
+                <img src="https://cemeri.org/wp-content/uploads/Sin-titulo.jpg" atl="about" class="responsive" />
 
             </div>
         </div>
