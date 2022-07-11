@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Layout-CEMERI/static/css/main.304a35d0.css",
+    "main.js": "/Layout-CEMERI/static/js/main.9ca02159.js",
+    "index.html": "/Layout-CEMERI/index.html",
+    "main.304a35d0.css.map": "/Layout-CEMERI/static/css/main.304a35d0.css.map",
+    "main.9ca02159.js.map": "/Layout-CEMERI/static/js/main.9ca02159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.304a35d0.css",
+    "static/js/main.9ca02159.js"
+  ]
+}
